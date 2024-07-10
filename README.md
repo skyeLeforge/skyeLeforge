@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I'm a software developer. Over 2020 I learned a lot about front-end web development. On December 1st, I started as a developer at EZTurn. This github has some projects I did over my time as a student learnign to code, and should refelct my growth in knowledge as they become more recent. I hope you enjoy my projects! 
+  I'm a software developer. Over 2020 I learned a lot about front-end web development. On December 1st 2020, I started as a developer at EZOS. This github has some projects I did over my time as a student learnign to code, and should refelct my growth in knowledge as they become more recent. I hope you enjoy my projects! 
 <!--
 **skyeLeforge/skyeLeforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
